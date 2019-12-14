@@ -12,5 +12,8 @@ public class LogUtil {
 		System.out.println("hello world!");
 		
 		System.out.println("test");
+		
+		System.out.println("test branches");
+		System.out.println("test branches 1");
 	}
 }
